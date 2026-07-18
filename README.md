@@ -167,32 +167,6 @@ Among all evaluated models, the **Tuned XGBoost** classifier achieved the strong
 ## Repository Structure
 
 ```
-Credit-Card-Fraud-Detection/
-│
-├── data/
-│   ├── raw/
-│   └── processed/
-│
-├── notebooks/
-│   ├── 01_EDA.ipynb
-│   ├── 02_Feature_Engineering.ipynb
-│   ├── 03_Preprocessing.ipynb
-│   ├── 04_Model_Training.ipynb
-│   ├── 05_Model_Evaluation.ipynb
-│   └── 06_Out_of_Time_Validation.ipynb
-│
-├── figures/
-│
-├── models/
-│
-├── thesis/
-│
-├── README.md
-│
-└── requirements.txt
-```
-
----
 
 ## Future Improvements
 
