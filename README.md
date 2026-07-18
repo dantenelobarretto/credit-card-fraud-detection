@@ -164,10 +164,6 @@ Among all evaluated models, the **Tuned XGBoost** classifier achieved the strong
 
 ---
 
-## Repository Structure
-
-```
-
 ## Future Improvements
 
 Potential improvements include:
@@ -179,5 +175,3 @@ Potential improvements include:
 - Develop hybrid frameworks combining supervised classification with anomaly detection.
 - Implement real-time fraud detection and concept drift adaptation.
 - Validate the framework using datasets from multiple financial institutions.
-
----
